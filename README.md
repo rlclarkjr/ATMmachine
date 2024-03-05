@@ -1,1 +1,2 @@
-# ATMmachine
+# ATMExercise
+React ATM
